@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void){
+int main(){
 
     printf("Desafio Jogo de Xadrez\n");
 
